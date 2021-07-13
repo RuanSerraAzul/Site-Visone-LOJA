@@ -1,0 +1,15 @@
+{
+	"folders": [],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+		
+			{
+				"type": "pwa-chrome",
+				"request": "launch",
+				"name": "Open index.html",
+				"file": "c:\\Users\\Eduardo\\Desktop\\Site Visone TEMPLATE\\index.html"
+			}
+		]
+	}
+}
