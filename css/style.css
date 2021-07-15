@@ -2,6 +2,11 @@
 Scorilo 1.0.1 - HTML Template by WowThemes.net
 Visit: https://www.wowthemes.net
 ================================================== */
+.nossasmarcas{
+	width: 310px;
+	height: 200px;
+	display: inline-block;
+ }
 body {
 	font-family:Roboto;
 	font-weight:300;
